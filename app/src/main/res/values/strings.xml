@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Abc Launcher</string>
+    <string name="a11y_label">Abc Launcher Home button</string>
+    <string name="a11y_description">Opens Abc Launcher when the remote\'s Home button would open the stock home screen. It only watches for the stock home screen opening; it never reads other screens or keystrokes.</string>
+</resources>
